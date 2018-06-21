@@ -1,5 +1,9 @@
 # EXCEED MODEL ZAKU HEAD のモノアイを光らせ，サーボで動かすためのコード  
 PIC12F1840用(コンフィグ変更でPIC12F1822でも可のハズ)  
+
+## 利用方法
+
+projectPackageディレクトリ内のzipファイルをMPLAB_Xに展開する
   
 ## 動作概要  
   
