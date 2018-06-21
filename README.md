@@ -1,4 +1,5 @@
-# EXCEED MODEL ZAKU HEAD のモノアイを光らせ，サーボで動かすためのコード  
+# EXCEED MODEL ZAKU HEAD の
+# モノアイを光らせ，サーボで動かすためのコード  
 ![ザクヘッド](https://github.com/pic-a-little/ZakuHead_monoEyeMove/blob/master/images/zakuHead.jpg "お写真")  
 
 PIC12F1840用(コンフィグ変更でPIC12F1822でも可のハズ)  
