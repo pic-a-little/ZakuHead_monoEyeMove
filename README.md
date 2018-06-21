@@ -22,7 +22,7 @@ projectPackageディレクトリ内のzipファイルをMPLAB_Xに展開する
 下記だったんじゃないかと  
   RA1 = LED制御 :   RA1 - 470ohm? - LED  - GND  
   RA2 = サーボ制御 :   RA2 - Servo(Yellow)  
-  RA4 = リードスイッチ入力 :   VCC -  RA4 - SW - 10K ohm - GND  
+  RA4 = リードスイッチ入力 :   VCC -  SW - RA4 - 10K ohm - GND  
 
 ![回路図](https://github.com/pic-a-little/ZakuHead_monoEyeMove/blob/master/images/circuit.png "回路図")　 
  　
