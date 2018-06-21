@@ -1,4 +1,5 @@
 # EXCEED MODEL ZAKU HEAD のモノアイを光らせ，サーボで動かすためのコード  
+![ザクヘッド](https://github.com/pic-a-little/ZakuHead_monoEyeMove/blob/master/images/zakuHead.jpg "お写真")　 
 PIC12F1840用(コンフィグ変更でPIC12F1822でも可のハズ)  
 
 ## 利用方法
@@ -19,7 +20,9 @@ projectPackageディレクトリ内のzipファイルをMPLAB_Xに展開する
   RA1 = LED制御 :   RA1 - 470ohm? - LED  - GND  
   RA2 = サーボ制御 :   RA2 - Servo(Yellow)  
   RA4 = リードスイッチ入力 :   VCC -  RA4 - SW - 10K ohm - GND  
-  
+
+![回路図](https://github.com/pic-a-little/ZakuHead_monoEyeMove/blob/master/images/circuit.png "回路図")　 
+ 　
 ## 内部動作/コード概略  
   
 全体的に割り込みで動作する作り  
