@@ -1,8 +1,10 @@
 # ZAKU HEAD のモノアイを光らせ，サーボで動かすためのコード  
-![ザクヘッド](https://github.com/pic-a-little/ZakuHead_monoEyeMove/blob/master/images/zakuHead.jpg "お写真")  
+![ザクヘッド](https://github.com/pic-a-little/ZakuHead_monoEyeMove/blob/master/images/zakuHead.jpg "お写真")  [![作り方動画](https://img.youtube.com/vi/wLAY23P32GI/0.jpg)](https://www.youtube.com/watch?v=wLAY23P32GI)
 
-EXCEED MODEL ZAKU HEAD↓ にサーボとLEDを仕込んで，モノアイを動かします。  
-http://gashapon.jp/products/detail.html?jan_code=4549660109013000  
+工作の詳細は上記動画と下記のブログにてご参照ください。
+https://picalittle.blog.fc2.com/blog-entry-63.html
+
+EXCEED MODEL ZAKU HEAD にサーボとLEDを仕込んで，モノアイを動かします。  
 PIC12F1840用です(コンフィグ変更でPIC12F1822でも可のハズ)  
 
 ## 利用方法
