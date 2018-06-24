@@ -3,7 +3,6 @@
 
 工作の詳細は下記のブログにてご参照ください。  
 https://picalittle.blog.fc2.com/blog-entry-63.html  
-https://picalittle.blog.fc2.com/blog-entry-64.html  
 
 EXCEED MODEL ZAKU HEAD にサーボとLEDを仕込んで，モノアイを動かします。  
 PIC12F1840用です(コンフィグ変更でPIC12F1822でも可のハズ)  
